@@ -1,6 +1,8 @@
 <img width="1679" height="353" alt="image" src="https://github.com/user-attachments/assets/0b9793bb-e278-4b4a-a9e9-a1bb8706e10e" />- 
+[Tridev](https://github.com/tridev09-ops)
 [Jnyananjan](https://github.com/Jnyananjan)
 [shivamg66](https://github.com/shivamg66)
+[Jordan Tantuico](https://github.com/vrjordant)
 [07Vineet07](https://github.com/07Vineet07)
 [vfedladishh] (https://github.com/vfedladishh)
 [Ayush Jha](https://github.com/ayush-04jha)
@@ -26,6 +28,7 @@ Divyanshu Rana
 -[Dipak Rathod](https://github.com/dipakrathod-tech)
 -[dsl02](https://github.com/dsl02/)
 - [Vanshika Vashistha](https://github.com/Vanshikavashistha)
+-[Adebisi Oluwatimileyin] (https://github.com/AdebisiOluwatimileyin)
 - [RKK Vishva Kumar](https://github.com/rkvishwa)
 - [Ganesh Ajegaonkar](https://github.com/Ganesh-P-A)
 #- [Sanskar Pandey](https://github.com/pandeysanskar19)
@@ -34,6 +37,7 @@ Divyanshu Rana
 -[Prince Jha](https://github.com/princejha-dev)
 -[Catherine9144](https://github.com/Catherine9144)
  [Sridivya]s(https://github.com/sridivyaguttula20)
+ Shadow
  -[Parda212](https://github.com/kaneki-212903)
 - [SuperDeer](https://github.com/superdeer18/first-contributions)
 - [Shashwat Kaushik] (https://github.com/shashwatkaushik-bit/first-contributions.git)
@@ -41,7 +45,7 @@ Divyanshu Rana
 - [aarshiyaya] (https://github.com/aarshiyaya)
 - [Vicky Sah] (https://github.com/vicks321)
 - [Cutro](https://github.com/Cutro3010/first-contributions)
-- [404000-UI](https://github.com/404000-UI)
+- [404000-UI](https://github.com/404000-U
 -Shravani
 -[Eric Lazarit](https://github.com/ericlazarit)
 -Prerna
@@ -54,6 +58,7 @@ Divyanshu Rana
 - nipun jain 
 - Palak Verma(https://github.com/PalakVerma-code)
 - Ravage
+point blank
   ylw0623
 - An Nguyen
 - Lucas Santos Da Cruz (https://github.com/lsantosdacruz)
@@ -489,6 +494,7 @@ OAT
 - [Hisham](https://github.com/sikehish)
 - [Hong Zh](https://github.com/ho-zh)
 - [kai - https://github.com/RakeshKayal] Thank you for helping me as a beginner who wants to contribute in open source
+-[KAIFUR RAHAMAN](https://github.com/Kaif145)
 - [Hritvika Chunduri](https://github.com/HritvikaC)
 - [Aclguh](https://github.com/Aclguh)
 - [HuginnDani](https://github.com/HuginnDani)
@@ -1328,4 +1334,10 @@ Zarasalim
 -[Hargun Singh](https://github.com/HargunSingh27)
 -[JoePeach](https://github.com/JoePeach-gif)
 varshini
+-[Sounak Saha](https://github.com/littlegoblinjr)
 - [wdb904](https://github.com/wdb904) - 我来自大学，软件工程专业，正在学习Git和开源，这是我的第一次开源贡献，希望和大家一起进步！
+-[Pranav Singh Jethuri](https://github.com/77pranav)
+- [Hamid Iqbal](https://github.com/Hamid0004)
+- - [SnakeEye-sudo](https://github.com/SnakeEye-sudo)
+- [Ankit-k97](https://github.com/Ankit-k97)
+- - [ankit020308](https://github.com/ankit020308)
